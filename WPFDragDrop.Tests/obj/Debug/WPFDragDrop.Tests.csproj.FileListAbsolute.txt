@@ -1,0 +1,4 @@
+D:\PersonalAzure\Projects\LastMendix\InterviewAssessment\InterviewAssessmentTests\obj\Debug\WPFDragDrop.Tests.csproj.AssemblyReference.cache
+D:\PersonalAzure\Projects\LastMendix\InterviewAssessment\InterviewAssessmentTests\obj\Debug\WPFDragDrop.Tests.csproj.CoreCompileInputs.cache
+D:\PersonalAzure\Projects\LastMendix\InterviewAssessment\InterviewAssessmentTests\obj\Debug\InterviewAssessmentTests.dll
+D:\PersonalAzure\Projects\LastMendix\InterviewAssessment\InterviewAssessmentTests\obj\Debug\InterviewAssessmentTests.pdb

@@ -1,0 +1,13 @@
+D:\PersonalAzure\Projects\LastMendix\InterviewAssessment\InterviewAssessment\obj\Debug\WPFDragDrop.csproj.AssemblyReference.cache
+D:\PersonalAzure\Projects\LastMendix\InterviewAssessment\InterviewAssessment\obj\Debug\WPFDragDrop.csproj.SuggestedBindingRedirects.cache
+D:\PersonalAzure\Projects\LastMendix\InterviewAssessment\InterviewAssessment\obj\Debug\Views\AddAttributeDialog.g.cs
+D:\PersonalAzure\Projects\LastMendix\InterviewAssessment\InterviewAssessment\obj\Debug\Views\EntityView.g.cs
+D:\PersonalAzure\Projects\LastMendix\InterviewAssessment\InterviewAssessment\obj\Debug\Views\MainWindow.g.cs
+D:\PersonalAzure\Projects\LastMendix\InterviewAssessment\InterviewAssessment\obj\Debug\Views\AddEntityDialog.g.cs
+D:\PersonalAzure\Projects\LastMendix\InterviewAssessment\InterviewAssessment\obj\Debug\App.g.cs
+D:\PersonalAzure\Projects\LastMendix\InterviewAssessment\InterviewAssessment\obj\Debug\DomainModelEditor_Content.g.cs
+D:\PersonalAzure\Projects\LastMendix\InterviewAssessment\InterviewAssessment\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PersonalAzure\Projects\LastMendix\InterviewAssessment\InterviewAssessment\obj\Debug\DomainModelEditor_MarkupCompile.cache
+D:\PersonalAzure\Projects\LastMendix\InterviewAssessment\InterviewAssessment\obj\Debug\DomainModelEditor_MarkupCompile.lref
+D:\PersonalAzure\Projects\LastMendix\InterviewAssessment\InterviewAssessment\obj\Debug\DomainModelEditor.exe
+D:\PersonalAzure\Projects\LastMendix\InterviewAssessment\InterviewAssessment\obj\Debug\DomainModelEditor.pdb
